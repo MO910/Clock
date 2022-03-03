@@ -1,0 +1,14 @@
+{
+    "arabic": true,
+    "delay": 60,
+    "timeMode24": true,
+
+    "images": [
+        "2.jpg",
+        "3.jpg",
+        "4.jpg"
+    ],
+    "videos": [
+        "1.mp4"
+    ]
+}
